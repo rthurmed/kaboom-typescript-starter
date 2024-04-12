@@ -1,5 +1,5 @@
 {
-	"name": "KaboomRunnerTutorial",
+	"name": "KaboomTypescriptStarter",
 	"scripts": {
 		"build": "esbuild --bundle src/main.ts --outfile=www/main.js --minify",
 		"dev": "esbuild --bundle src/main.ts --outfile=www/main.js --servedir=www",
